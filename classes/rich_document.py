@@ -169,9 +169,6 @@ class FormattedNode(object):
             return self.get_text(), True
         return '', False
 
-    def remove_empty_prefix(self):
-        pass
-
     def enumerate_internal_nodes(self):
         return []
 

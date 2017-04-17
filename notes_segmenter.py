@@ -1,6 +1,5 @@
 # coding=utf-8
 
-import spacy
 import re
 import os.path
 
